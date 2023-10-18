@@ -8,7 +8,7 @@
         <fileSet>
             <outputDirectory>.</outputDirectory>
             <includes>
-                <include>readme.txt</include>
+                <include>README.md</include>
             </includes>
         </fileSet>
         <fileSet>
